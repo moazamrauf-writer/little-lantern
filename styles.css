@@ -1,0 +1,11 @@
+/* =============================================================
+   Gracious Foundation International — Global Style Entry Point
+   Import this one file to gain access to all tokens and fonts.
+   Do NOT add inline rules here — imports only.
+   ============================================================= */
+
+@import './tokens/colors.css';
+@import './tokens/typography.css';
+@import './tokens/spacing.css';
+@import './tokens/elevation.css';
+@import './tokens/motion.css';
